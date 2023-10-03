@@ -22,3 +22,4 @@ Add a picture of your choice in `static/images/`. Accepted files are **png** and
 ```
 static/images/<YOUR-USERNAME>.png
 ```
+thank you for your support
